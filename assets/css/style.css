@@ -1,12 +1,13 @@
 #mainpage {
-	background-image: url(../images/background-image.png);
+	background-image: url(../images/bg2.jpg);
 
 }
 
 .addborder {
-	background-color: white;	
+	background-color: #F8F8F8;	
+    border-radius: 15px;
 	padding: 10px 10px 10px 10px;
-	box-shadow: 8px 8px 10px #aaa;
+	box-shadow: 8px 8px 10px #606060;
 }
 
 
@@ -31,3 +32,5 @@
     background-color: #4aaaa5;
     padding: 0px 90px 0px 90px ;
 }
+
+
