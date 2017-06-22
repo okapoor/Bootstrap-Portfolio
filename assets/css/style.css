@@ -1,0 +1,33 @@
+#mainpage {
+	background-image: url(../images/background-image.png);
+
+}
+
+.addborder {
+	background-color: white;	
+	padding: 10px 10px 10px 10px;
+	box-shadow: 8px 8px 10px #aaa;
+}
+
+
+.imagepadding {
+	padding: 10px 10px 10px 10px;
+}
+
+.post-contentleft {
+    top:150px;
+    left:-355px;
+    position: absolute;
+    background-color: #4aaaa5;
+    padding: 0px 90px 0px 90px ;
+}
+
+.post-contentright {
+	position: absolute;
+
+    top:0px;
+    left:500px;
+
+    background-color: #4aaaa5;
+    padding: 0px 90px 0px 90px ;
+}
